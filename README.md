@@ -22,7 +22,7 @@ Welcome to the Scramble Game - an exciting word puzzle built with advanced JavaS
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/hilalsalarzi/Scramble-Game-Advance-Javascript-Project.git
 2. Open `Scramble-Game.html` in your favorite web browser.
 
 ## Contributing
